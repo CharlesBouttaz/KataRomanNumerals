@@ -1,0 +1,1 @@
+Kata [RomanNumerals](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals) using [Transformation Priority Premise](http://en.wikipedia.org/wiki/Transformation_Priority_Premise) and [Parameterised tests](https://github.com/Pragmatists/JUnitParams)
